@@ -404,3 +404,7 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+todo.txt
+mask_installation/include/README
+mask_installation/lib/README
+mask_installation/test/README
